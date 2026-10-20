@@ -791,7 +791,7 @@
         "processing": "Przetwarzane",
         "processed": "Przetworzone",
         "time": "Czas",
-        "failed": "Failed"
+        "failed": "Niepowodzenie"
     },
     "firefly": {
         "networth": "Wartość netto",
